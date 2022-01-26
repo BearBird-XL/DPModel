@@ -32,6 +32,13 @@
 			<version>4.13.1</version>
 			<scope>test</scope>
 		</dependency>
+		
+		<!-- Hutool 工具类 -->
+		<dependency>
+			<groupId>cn.hutool</groupId>
+			<artifactId>hutool-core</artifactId>
+			<version>5.7.19</version>
+		</dependency>
 	</dependencies>
 
 </project>
